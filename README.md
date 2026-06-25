@@ -38,10 +38,6 @@ A modern and responsive Food Ordering Web Application built using React.js. This
 
 This project was developed to improve my React.js skills by implementing real-world concepts such as component-based architecture, state management, routing, reusable components, and responsive web design.
 
-## 📸 Preview
-
-(Add screenshots here)
-
 ## 📄 License
 
 This project is created for learning and portfolio purposes.
